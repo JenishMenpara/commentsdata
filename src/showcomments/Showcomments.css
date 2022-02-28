@@ -1,0 +1,61 @@
+.showcommentsmainbox{
+    display: flex;
+    align-items: center;
+    border: 0px solid rgb(214, 243, 243);
+    border-radius: 15px;
+    width: 40%;
+    margin: 5px;
+    background-color: rgb(214, 243, 243);
+}
+.useritemlogo{
+   
+}
+
+.textname {
+font-size: 22px;
+font-weight: 700;
+}
+
+.textcomments{
+    font-size: 20px;
+}
+.commentfunction{
+    display: flex;
+    margin: 5 0px;
+    padding: 0 50px;
+    flex-direction: row;
+    font-size: small;
+   
+}
+
+.like{
+    cursor: pointer;
+}
+.edit{
+    cursor: pointer;
+    
+}
+.reply{
+    cursor: pointer;
+
+}
+.del{
+    cursor: pointer;
+}
+
+.replydatabox{
+    display: flex;
+    align-items: center;
+    border: 0px solid rgb(214, 243, 243);
+    border-radius: 15px;
+    width: 40%;
+    margin: 5px;
+    background-color: rgb(214, 243, 243);
+    margin-left: 20%;
+}
+.replyfunction{
+    display: flex;
+    flex-direction: row;
+    font-size: small;
+    margin-left: 22%;
+}

@@ -1,0 +1,53 @@
+.mainbox{
+    align-self: center;
+    display: block;
+   
+    top: auto;
+    position: fixed;
+    
+}
+
+.createbtnbox{
+    text-align: center;
+    
+}
+
+.createbtn{
+    cursor: pointer;
+    border: 1px solid red;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    color: aliceblue;
+    background-color: brown;
+}
+.textareabox{
+    width: 670px;
+    height: 100px;
+}
+
+.addcommetsbox{
+    background-color: rgb(224, 162, 240);
+    width: 100%;
+    margin-left: 25%;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 5px;
+    
+}
+
+.boxitembtn{
+   margin-top: 5px;
+   text-align: center;
+   
+}
+
+.boxitembtnclose,.boxitembtnadd{
+    cursor: pointer;
+    width: 100px;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 0;
+    margin: 5px;
+}
